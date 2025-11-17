@@ -1,0 +1,5 @@
+Prompt 1: Crie um título impactante para um podcast sobre tecnologia e IA.
+Prompt 2: Gere um roteiro com introdução, tópicos principais e conclusão para um episódio sobre 'O Futuro da Inteligência Artificial'.
+Prompt 3: Sugira uma descrição curta e envolvente para o episódio.
+Prompt 4: Crie um prompt para gerar uma imagem de capa no Midjourney com tema futurista.
+Prompt 5: Gere um texto para ElevenLabs transformar em áudio com voz natural.
