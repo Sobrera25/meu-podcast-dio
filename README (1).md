@@ -23,5 +23,5 @@ Este repositório contém o projeto prático desenvolvido durante o curso da DIO
 
 ### ✅ Como executar:
 ```bash
-git clone https://github.com/seuusuario/meu-podcast-dio.git
+git clone https://github.com/Sobrera25/meu-podcast-dio.git
 ```
