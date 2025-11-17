@@ -1,0 +1,4 @@
+Repositório original do expert: https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia
+Ferramenta para áudio (ElevenLabs): https://elevenlabs.io
+Ferramenta para imagem (Midjourney): https://www.midjourney.com
+Artigo Medium: https://medium.com/seu-artigo-aqui
